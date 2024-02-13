@@ -5,3 +5,9 @@ def calculating_age():
     print(f"You are {age} years old.")
 
 calculating_age()
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
